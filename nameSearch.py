@@ -10,6 +10,7 @@ def findName(name):
     print("Can't find name:"+name)
     return
   try:
+    int ligma = 0
     print(name+ " 2017:"+ str(data[name]["2017"]))
     print(name+ " 2018:"+ str(data[name]["2018"]))
     print(name+ " 2019:"+ str(data[name]["2019"]))
