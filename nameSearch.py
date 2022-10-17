@@ -10,11 +10,11 @@ def findName(name):
     print("Can't find name:"+name)
     return
   try:
-    print(data[name]["2017"])
-    print(data[name]["2018"])
-    print(data[name]["2019"])
-    print(data[name]["2020"])
-    print(data[name]["2021"])
+    print(name+ " 2017:"+ str(data[name]["2017"]))
+    print(name+ " 2018:"+ str(data[name]["2018"]))
+    print(name+ " 2019:"+ str(data[name]["2019"]))
+    print(name+ " 2020:"+ str(data[name]["2020"]))
+    print(name+ " 2021:"+ str(data[name]["2021"]))
   except:
     print("Name: "+name+" does not exist in all years")
     
