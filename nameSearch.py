@@ -2,7 +2,7 @@ import json
 
 file = open ("names.json")
 data = json.load(file)
-
+daniel = sosmart
 def findName(name):
   try:
     tryName = data[name]
