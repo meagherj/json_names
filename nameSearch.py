@@ -18,13 +18,23 @@ def findName(name):
   except:
     print("Name: "+name+" does not exist in all years")
     
+findName("Sherry")
 findName("Joseph")
 findName("Ethyl")
 findName("Local")
 findName("Joe")
 
-findName("Tal")
 
 
 findName("Michelle")
+
+findName("Katie")
+findName("Michelle")
+findName("Dibyadeep")
+findName("Rishi")
+findName("Jeoff")
+findName("Michelle")
+findName("Arjun")
+findName("Tal")
+
 
