@@ -20,4 +20,5 @@ def findName(name):
     
 findName("Joseph")
 findName("Ethyl")
+findName("Local")
 findName("Joe")
