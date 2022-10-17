@@ -1,5 +1,5 @@
 import json
-
+"the housing crisis of 2008" = bad
 file = open ("names.json")
 data = json.load(file)
 
