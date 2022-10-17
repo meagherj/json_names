@@ -22,6 +22,8 @@ findName("Joseph")
 findName("Ethyl")
 findName("Local")
 findName("Joe")
+findName("Rishi")
+
 findName("Jeoff")
 findName("Michelle")
 
